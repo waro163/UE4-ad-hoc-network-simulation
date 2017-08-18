@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FGenericCrashContext>
+	<RuntimeProperties>
+		<CrashVersion>3</CrashVersion>
+		<CrashGUID>UE4CC-Windows-B45E64A84F2A1E714854D18201EDD135_0000</CrashGUID>
+		<ProcessId>191376</ProcessId>
+		<IsInternalBuild>false</IsInternalBuild>
+		<IsPerforceBuild>false</IsPerforceBuild>
+		<IsSourceDistribution>false</IsSourceDistribution>
+		<IsEnsure>true</IsEnsure>
+		<IsAssert>false</IsAssert>
+		<CrashType>Ensure</CrashType>
+		<SecondsSinceStart>7873</SecondsSinceStart>
+		<GameName>UE4-MeshNetwork</GameName>
+		<ExecutableName>UE4Editor</ExecutableName>
+		<BuildConfiguration>Development</BuildConfiguration>
+		<GameSessionID />
+		<PlatformName>Windows</PlatformName>
+		<PlatformNameIni>Windows</PlatformNameIni>
+		<EngineMode>Editor</EngineMode>
+		<EngineModeEx>Vanilla</EngineModeEx>
+		<DeploymentName />
+		<EngineVersion>4.15.3-3450819+++UE4+Release-4.15</EngineVersion>
+		<CommandLine>&quot;D:\santiwang\meshNetworkSimulation\MeshNetwork\MeshNetwork.uproject&quot;</CommandLine>
+		<LanguageLCID>2052</LanguageLCID>
+		<AppDefaultLocale>zh_CN</AppDefaultLocale>
+		<BuildVersion>++UE4+Release-4.15-CL-3450819</BuildVersion>
+		<IsUE4Release>true</IsUE4Release>
+		<UserName>win10</UserName>
+		<BaseDir>D:/Program Files/Epic Games/UE_4.15/Engine/Binaries/Win64/</BaseDir>
+		<RootDir>D:/Program Files/Epic Games/UE_4.15/</RootDir>
+		<MachineId>8E493F2A4CCB5DFE29C8FA9A5DEAFCBC</MachineId>
+		<LoginId>8e493f2a4ccb5dfe29c8fa9a5deafcbc</LoginId>
+		<EpicAccountId>967a6b92938c4334975ff13b9df2f1dd</EpicAccountId>
+		<CallStack />
+		<SourceContext />
+		<UserDescription>Sent in the unattended mode</UserDescription>
+		<UserActivityHint>Layout=&quot;Document : 7&quot; Label=&quot;Begin Timer&quot; Content=SGraphEditor</UserActivityHint>
+		<ErrorMessage>Ensure condition failed: ToPin-&gt;LinkedTo.Contains(this) [File:D:\Build\++UE4+Release-4.15+Compile\Sync\Engine\Source\Runtime\Engine\Private\EdGraph\EdGraphPin.cpp] [Line: 333] &nl;UEdGraphPin::BreakLinkTo Pin &apos;execute&apos; on node &apos;Set Timer by Event&apos; not reciprocally linked with pin &apos;then&apos; on node &apos;Event LoopRequestTimer&apos;&nl;</ErrorMessage>
+		<CrashDumpMode>0</CrashDumpMode>
+		<CrashReporterMessage />
+		<Misc.NumberOfCores>4</Misc.NumberOfCores>
+		<Misc.NumberOfCoresIncludingHyperthreads>8</Misc.NumberOfCoresIncludingHyperthreads>
+		<Misc.Is64bitOperatingSystem>1</Misc.Is64bitOperatingSystem>
+		<Misc.CPUVendor>GenuineIntel</Misc.CPUVendor>
+		<Misc.CPUBrand>Intel(R) Core(TM) i7-6700 CPU @ 3.40GHz</Misc.CPUBrand>
+		<Misc.PrimaryGPUBrand>NVIDIA GeForce GTX 1060 6GB</Misc.PrimaryGPUBrand>
+		<Misc.OSVersionMajor>Windows 10</Misc.OSVersionMajor>
+		<Misc.OSVersionMinor />
+		<MemoryStats.TotalPhysical>17111162880</MemoryStats.TotalPhysical>
+		<MemoryStats.TotalVirtual>140737488224256</MemoryStats.TotalVirtual>
+		<MemoryStats.PageSize>65536</MemoryStats.PageSize>
+		<MemoryStats.TotalPhysicalGB>16</MemoryStats.TotalPhysicalGB>
+		<MemoryStats.AvailablePhysical>9018957824</MemoryStats.AvailablePhysical>
+		<MemoryStats.AvailableVirtual>140733418618880</MemoryStats.AvailableVirtual>
+		<MemoryStats.UsedPhysical>1042747392</MemoryStats.UsedPhysical>
+		<MemoryStats.PeakUsedPhysical>1760890880</MemoryStats.PeakUsedPhysical>
+		<MemoryStats.UsedVirtual>2908385280</MemoryStats.UsedVirtual>
+		<MemoryStats.PeakUsedVirtual>3088297984</MemoryStats.PeakUsedVirtual>
+		<MemoryStats.bIsOOM>0</MemoryStats.bIsOOM>
+		<MemoryStats.OOMAllocationSize>0</MemoryStats.OOMAllocationSize>
+		<MemoryStats.OOMAllocationAlignment>0</MemoryStats.OOMAllocationAlignment>
+		<TimeOfCrash>636380310693500000</TimeOfCrash>
+		<bAllowToBeContacted>1</bAllowToBeContacted>
+		<PlatformFullName>Win64 [Windows 10  64b]</PlatformFullName>
+		<CrashReportClientVersion>1.0</CrashReportClientVersion>
+	</RuntimeProperties>
+	<PlatformProperties>
+		<PlatformIsRunningWindows>1</PlatformIsRunningWindows>
+		<PlatformCallbackResult>0</PlatformCallbackResult>
+	</PlatformProperties>
+</FGenericCrashContext>
